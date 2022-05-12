@@ -1,6 +1,4 @@
 
-![MOBX](https://user-images.githubusercontent.com/55746103/168102995-43c7ca9f-bf68-4214-8a06-c649753863c9.png)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
